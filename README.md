@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejas Kulkarni</h1>
-<h3 align="center">Software Engineer Intern at WisdmLabs</h3>
+<h3 align="center">Software Engineer at WisdmLabs</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas810" alt="tejas810" /></a> </p>
 
-- 🌱 I’m currently learning **Java , Android ,React**
+- 🌱 I’m currently learning **Java and React**
 
 <br>
 - 📫 Reach out to me 
